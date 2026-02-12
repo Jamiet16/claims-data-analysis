@@ -1,0 +1,9 @@
+claim_id,claim_type,amount,status,processed_date
+1001,Medical,1200,Approved,2024-01-02
+1002,Dental,450,Denied,2024-01-05
+1003,Vision,200,Approved,2024-01-07
+1004,Medical,3200,Approved,2024-01-09
+1005,Dental,800,Pending,2024-01-10
+1006,Medical,1500,Denied,2024-01-11
+1007,Vision,300,Approved,2024-01-13
+1008,Medical,2200,Pending,2024-01-14
